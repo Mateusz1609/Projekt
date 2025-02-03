@@ -1,3 +1,6 @@
+# Matsvei Parkhanovich
+numer albomu:91312
+
 # Metoda trapezów w C++. 
 Projekt i implementacja programu obliczającego całkę złożoną metodą trapezów. 
 
